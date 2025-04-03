@@ -1,0 +1,141 @@
+{
+  "navigation": {
+    "home": "Strona główna",
+    "services": "Usługi",
+    "about": "O nas",
+    "team": "Nasz zespół",
+    "testimonials": "Opinie",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "consultation": "Darmowa konsultacja",
+    "schedule": "Umów konsultację",
+    "learnMore": "Dowiedz się więcej",
+    "contactSales": "Skontaktuj się",
+    "tourPlatform": "Poznaj naszą firmę"
+  },
+  "hero": {
+    "title": "Nowoczesne rozwiązania prawne dla złożonych wyzwań",
+    "subtitle": "Nasz zespół doświadczonych prawników zapewnia wyjątkową reprezentację prawną z nowoczesnym podejściem do praktyki prawnej."
+  },
+  "services": {
+    "title": "Nasze usługi prawne",
+    "subtitle": "Oferujemy kompleksowe usługi prawne dostosowane do Twoich potrzeb, z wiedzą i zaangażowaniem.",
+    "items": [
+      {
+        "title": "Prawo korporacyjne",
+        "description": "Kompleksowe rozwiązania prawne dla firm każdej wielkości, od startupów po duże korporacje."
+      },
+      {
+        "title": "Prawo nieruchomości",
+        "description": "Profesjonalne doradztwo w złożonych transakcjach nieruchomości, sporach i kwestiach regulacyjnych."
+      },
+      {
+        "title": "Prawo rodzinne",
+        "description": "Empatyczna reprezentacja w sprawach rozwodowych, opieki nad dziećmi i innych kwestiach rodzinnych."
+      },
+      {
+        "title": "Własność intelektualna",
+        "description": "Ochrona Twoich dzieł, innowacji i tożsamości marki w erze cyfrowej."
+      },
+      {
+        "title": "Spory sądowe",
+        "description": "Strategiczna reprezentacja w postępowaniach sądowych i rozwiązywaniu sporów."
+      },
+      {
+        "title": "Prawo podatkowe",
+        "description": "Profesjonalne doradztwo w planowaniu podatkowym, zgodności i rozwiązywaniu sporów podatkowych."
+      }
+    ]
+  },
+  "about": {
+    "title": "O kancelarii Atlas Law",
+    "description1": "Założona w 2010 roku, kancelaria Atlas Law ugruntowała swoją pozycję jako wiodąca praktyka prawna zaangażowana w doskonałość i satysfakcję klientów. Nasza firma łączy głęboką wiedzę prawniczą z nowoczesnym podejściem, aby zapewnić skuteczne rozwiązania dla naszych klientów.",
+    "description2": "Wierzymy w budowanie trwałych relacji z naszymi klientami opartych na zaufaniu, przejrzystości i rezultatach. Nasz zespół doświadczonych prawników jest zaangażowany w zrozumienie Twoich unikalnych potrzeb i dostarczanie dopasowanych strategii prawnych.",
+    "stats": {
+      "cases": "Wygranych spraw",
+      "experience": "Lat doświadczenia",
+      "attorneys": "Ekspertów prawnych",
+      "satisfaction": "Zadowolonych klientów"
+    }
+  },
+  "team": {
+    "title": "Nasz zespół prawny",
+    "subtitle": "Poznaj nasz zespół doświadczonych prawników zaangażowanych w zapewnienie wyjątkowej reprezentacji prawnej.",
+    "members": [
+      {
+        "name": "Aleksandra Kowalska",
+        "role": "Partner zarządzający"
+      },
+      {
+        "name": "Michał Chen",
+        "role": "Prawo korporacyjne"
+      },
+      {
+        "name": "Sara Nowak",
+        "role": "Specjalista ds. sporów"
+      },
+      {
+        "name": "Dawid Wiśniewski",
+        "role": "Prawo nieruchomości"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Opinie klientów",
+    "subtitle": "Posłuchaj, co nasi klienci mówią o doświadczeniu współpracy z naszym zespołem prawnym.",
+    "items": [
+      {
+        "quote": "Atlas Law zapewnił wyjątkową reprezentację prawną podczas złożonej fuzji korporacyjnej. Ich wiedza i strategiczne podejście były nieocenione.",
+        "name": "Robert Tomaszewski",
+        "title": "CEO, Innovate Tech"
+      },
+      {
+        "quote": "Zespół Atlas Law przeprowadził mnie przez trudną sprawę z zakresu prawa rodzinnego z empatią i profesjonalizmem. Nie mogłabym być bardziej wdzięczna za ich wsparcie.",
+        "name": "Joanna Martyniak",
+        "title": "Klient"
+      },
+      {
+        "quote": "Ich znajomość prawa własności intelektualnej pomogła nam chronić naszą markę podczas krytycznej fazy wzrostu. Gorąco polecam dla każdego biznesu.",
+        "name": "Marek Andrzejewski",
+        "title": "Założyciel, Creative Solutions"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "subtitle": "Masz pytanie prawne lub potrzebujesz reprezentacji? Skontaktuj się z naszym zespołem, aby umówić konsultację.",
+    "office": "Nasze biuro",
+    "address": "ul. Prawnicza 123, lok. 500\nWarszawa, 00-001",
+    "email": "Napisz do nas",
+    "emailAddresses": "info@atlaslaw.pl\nkontakt@atlaslaw.pl",
+    "phone": "Zadzwoń do nas",
+    "phoneNumbers": "(22) 555-1234\n(800) 555-5678",
+    "form": {
+      "title": "Poproś o konsultację",
+      "name": "Imię i nazwisko",
+      "email": "Adres e-mail",
+      "subject": "Temat",
+      "message": "Wiadomość",
+      "namePlaceholder": "Jan Kowalski",
+      "emailPlaceholder": "jan@przyklad.pl",
+      "subjectPlaceholder": "Konsultacja prawna",
+      "messagePlaceholder": "Opisz swoje potrzeby prawne...",
+      "submit": "Wyślij zapytanie"
+    }
+  },
+  "footer": {
+    "description": "Zapewniamy wyjątkowe usługi prawne z nowoczesnym podejściem do praktyki prawnej.",
+    "practiceAreas": "Obszary praktyki",
+    "quickLinks": "Szybkie linki",
+    "newsletter": "Newsletter",
+    "newsletterText": "Zapisz się do naszego newslettera, aby otrzymywać aktualizacje i porady prawne.",
+    "emailPlaceholder": "Twój email",
+    "subscribe": "Zapisz się",
+    "copyright": "© 2024 Atlas Law. Wszelkie prawa zastrzeżone.",
+    "privacy": "Polityka prywatności",
+    "terms": "Warunki korzystania",
+    "cookies": "Polityka cookies"
+  }
+}
+

@@ -1,0 +1,141 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "team": "Our Team",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "cta": {
+    "consultation": "Free Consultation",
+    "schedule": "Schedule Consultation",
+    "learnMore": "Learn More",
+    "contactSales": "Contact Us",
+    "tourPlatform": "Tour Our Firm"
+  },
+  "hero": {
+    "title": "Modern Legal Solutions for Complex Challenges",
+    "subtitle": "Our team of experienced attorneys provides exceptional legal representation with a modern approach to law practice."
+  },
+  "services": {
+    "title": "Our Legal Services",
+    "subtitle": "We offer comprehensive legal services tailored to meet your specific needs with expertise and dedication.",
+    "items": [
+      {
+        "title": "Corporate Law",
+        "description": "Comprehensive legal solutions for businesses of all sizes, from startups to established corporations."
+      },
+      {
+        "title": "Real Estate Law",
+        "description": "Expert guidance through complex real estate transactions, disputes, and regulatory matters."
+      },
+      {
+        "title": "Family Law",
+        "description": "Compassionate representation for divorce, child custody, and other family-related legal matters."
+      },
+      {
+        "title": "Intellectual Property",
+        "description": "Protection for your creative works, innovations, and brand identity in the digital age."
+      },
+      {
+        "title": "Litigation",
+        "description": "Strategic advocacy and representation in court proceedings and dispute resolution."
+      },
+      {
+        "title": "Tax Law",
+        "description": "Expert advice on tax planning, compliance, and resolution of tax-related disputes."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Atlas Law",
+    "description1": "Founded in 2010, Atlas Law has established itself as a leading legal practice committed to excellence and client satisfaction. Our firm combines deep legal expertise with a modern approach to provide effective solutions for our clients.",
+    "description2": "We believe in building lasting relationships with our clients based on trust, transparency, and results. Our team of experienced attorneys is dedicated to understanding your unique needs and delivering tailored legal strategies.",
+    "stats": {
+      "cases": "Successful Cases",
+      "experience": "Years Experience",
+      "attorneys": "Expert Attorneys",
+      "satisfaction": "Client Satisfaction"
+    }
+  },
+  "team": {
+    "title": "Our Legal Team",
+    "subtitle": "Meet our team of experienced attorneys dedicated to providing exceptional legal representation.",
+    "members": [
+      {
+        "name": "Alexandra Reynolds",
+        "role": "Managing Partner"
+      },
+      {
+        "name": "Michael Chen",
+        "role": "Corporate Law"
+      },
+      {
+        "name": "Sarah Johnson",
+        "role": "Litigation Specialist"
+      },
+      {
+        "name": "David Williams",
+        "role": "Real Estate Law"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Hear what our clients have to say about their experience working with our legal team.",
+    "items": [
+      {
+        "quote": "Atlas Law provided exceptional legal representation during a complex corporate merger. Their expertise and strategic approach were invaluable.",
+        "name": "Robert Thompson",
+        "title": "CEO, Innovate Tech"
+      },
+      {
+        "quote": "The team at Atlas Law guided me through a difficult family law case with compassion and professionalism. I couldn't be more grateful for their support.",
+        "name": "Jennifer Martinez",
+        "title": "Client"
+      },
+      {
+        "quote": "Their knowledge of intellectual property law helped us protect our brand during a critical growth phase. Highly recommended for any business.",
+        "name": "Mark Anderson",
+        "title": "Founder, Creative Solutions"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have a legal question or need representation? Contact our team today to schedule a consultation.",
+    "office": "Our Office",
+    "address": "123 Legal Avenue, Suite 500\nNew York, NY 10001",
+    "email": "Email Us",
+    "emailAddresses": "info@atlaslaw.com\nsupport@atlaslaw.com",
+    "phone": "Call Us",
+    "phoneNumbers": "(212) 555-1234\n(800) 555-5678",
+    "form": {
+      "title": "Request a Consultation",
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "namePlaceholder": "John Doe",
+      "emailPlaceholder": "john@example.com",
+      "subjectPlaceholder": "Legal consultation",
+      "messagePlaceholder": "Describe your legal needs...",
+      "submit": "Submit Request"
+    }
+  },
+  "footer": {
+    "description": "Providing exceptional legal services with a modern approach to law practice.",
+    "practiceAreas": "Practice Areas",
+    "quickLinks": "Quick Links",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe to our newsletter for legal updates and insights.",
+    "emailPlaceholder": "Your email",
+    "subscribe": "Subscribe",
+    "copyright": "© 2024 Atlas Law. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy"
+  }
+}
+

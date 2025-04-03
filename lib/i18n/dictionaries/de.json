@@ -1,0 +1,141 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "about": "Über uns",
+    "team": "Unser Team",
+    "testimonials": "Referenzen",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "consultation": "Kostenlose Beratung",
+    "schedule": "Beratung vereinbaren",
+    "learnMore": "Mehr erfahren",
+    "contactSales": "Kontaktieren Sie uns",
+    "tourPlatform": "Unsere Kanzlei kennenlernen"
+  },
+  "hero": {
+    "title": "Moderne Rechtslösungen für komplexe Herausforderungen",
+    "subtitle": "Unser Team erfahrener Anwälte bietet außergewöhnliche Rechtsvertretung mit einem modernen Ansatz für die Rechtspraxis."
+  },
+  "services": {
+    "title": "Unsere Rechtsdienstleistungen",
+    "subtitle": "Wir bieten umfassende Rechtsdienstleistungen, die auf Ihre spezifischen Bedürfnisse zugeschnitten sind, mit Fachwissen und Engagement.",
+    "items": [
+      {
+        "title": "Gesellschaftsrecht",
+        "description": "Umfassende Rechtslösungen für Unternehmen aller Größen, von Startups bis hin zu etablierten Konzernen."
+      },
+      {
+        "title": "Immobilienrecht",
+        "description": "Fachkundige Beratung bei komplexen Immobilientransaktionen, Streitigkeiten und regulatorischen Angelegenheiten."
+      },
+      {
+        "title": "Familienrecht",
+        "description": "Einfühlsame Vertretung bei Scheidungen, Sorgerecht und anderen familienbezogenen Rechtsangelegenheiten."
+      },
+      {
+        "title": "Geistiges Eigentum",
+        "description": "Schutz für Ihre kreativen Werke, Innovationen und Markenidentität im digitalen Zeitalter."
+      },
+      {
+        "title": "Prozessführung",
+        "description": "Strategische Vertretung in Gerichtsverfahren und bei der Streitbeilegung."
+      },
+      {
+        "title": "Steuerrecht",
+        "description": "Fachkundige Beratung zur Steuerplanung, Compliance und Lösung von Steuerstreitigkeiten."
+      }
+    ]
+  },
+  "about": {
+    "title": "Über Atlas Law",
+    "description1": "Atlas Law wurde 2010 gegründet und hat sich als führende Rechtsanwaltskanzlei etabliert, die sich der Exzellenz und Kundenzufriedenheit verschrieben hat. Unsere Kanzlei kombiniert tiefgreifendes juristisches Fachwissen mit einem modernen Ansatz, um effektive Lösungen für unsere Mandanten zu bieten.",
+    "description2": "Wir glauben an den Aufbau dauerhafter Beziehungen zu unseren Mandanten, die auf Vertrauen, Transparenz und Ergebnissen basieren. Unser Team erfahrener Anwälte ist darauf spezialisiert, Ihre einzigartigen Bedürfnisse zu verstehen und maßgeschneiderte Rechtsstrategien zu liefern.",
+    "stats": {
+      "cases": "Erfolgreiche Fälle",
+      "experience": "Jahre Erfahrung",
+      "attorneys": "Fachanwälte",
+      "satisfaction": "Kundenzufriedenheit"
+    }
+  },
+  "team": {
+    "title": "Unser Rechtsteam",
+    "subtitle": "Lernen Sie unser Team erfahrener Anwälte kennen, die sich der außergewöhnlichen Rechtsvertretung verschrieben haben.",
+    "members": [
+      {
+        "name": "Alexandra Müller",
+        "role": "Geschäftsführende Partnerin"
+      },
+      {
+        "name": "Michael Chen",
+        "role": "Gesellschaftsrecht"
+      },
+      {
+        "name": "Sarah Schmidt",
+        "role": "Prozessführungsspezialistin"
+      },
+      {
+        "name": "David Weber",
+        "role": "Immobilienrecht"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Kundenstimmen",
+    "subtitle": "Hören Sie, was unsere Mandanten über ihre Erfahrungen mit unserem Rechtsteam zu sagen haben.",
+    "items": [
+      {
+        "quote": "Atlas Law bot eine außergewöhnliche Rechtsvertretung während einer komplexen Unternehmensfusion. Ihre Expertise und ihr strategischer Ansatz waren von unschätzbarem Wert.",
+        "name": "Robert Thomsen",
+        "title": "CEO, Innovate Tech"
+      },
+      {
+        "quote": "Das Team von Atlas Law hat mich mit Mitgefühl und Professionalität durch einen schwierigen Familienrechtsfall geführt. Ich könnte nicht dankbarer für ihre Unterstützung sein.",
+        "name": "Jennifer Martinez",
+        "title": "Mandantin"
+      },
+      {
+        "quote": "Ihr Wissen im Bereich des geistigen Eigentums hat uns geholfen, unsere Marke während einer kritischen Wachstumsphase zu schützen. Sehr empfehlenswert für jedes Unternehmen.",
+        "name": "Mark Anderson",
+        "title": "Gründer, Creative Solutions"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Haben Sie eine rechtliche Frage oder benötigen Sie Vertretung? Kontaktieren Sie unser Team noch heute, um eine Beratung zu vereinbaren.",
+    "office": "Unser Büro",
+    "address": "Rechtsstraße 123, Suite 500\nBerlin, 10117",
+    "email": "E-Mail an uns",
+    "emailAddresses": "info@atlaslaw.de\nsupport@atlaslaw.de",
+    "phone": "Rufen Sie uns an",
+    "phoneNumbers": "(030) 555-1234\n(0800) 555-5678",
+    "form": {
+      "title": "Beratung anfragen",
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "namePlaceholder": "Max Mustermann",
+      "emailPlaceholder": "max@beispiel.de",
+      "subjectPlaceholder": "Rechtsberatung",
+      "messagePlaceholder": "Beschreiben Sie Ihre rechtlichen Bedürfnisse...",
+      "submit": "Anfrage senden"
+    }
+  },
+  "footer": {
+    "description": "Wir bieten außergewöhnliche Rechtsdienstleistungen mit einem modernen Ansatz für die Rechtspraxis.",
+    "practiceAreas": "Fachgebiete",
+    "quickLinks": "Schnelllinks",
+    "newsletter": "Newsletter",
+    "newsletterText": "Abonnieren Sie unseren Newsletter für rechtliche Updates und Einblicke.",
+    "emailPlaceholder": "Ihre E-Mail",
+    "subscribe": "Abonnieren",
+    "copyright": "© 2024 Atlas Law. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "cookies": "Cookie-Richtlinie"
+  }
+}
+

@@ -1,0 +1,141 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "team": "Nuestro Equipo",
+    "testimonials": "Testimonios",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "consultation": "Consulta Gratuita",
+    "schedule": "Programar Consulta",
+    "learnMore": "Más Información",
+    "contactSales": "Contáctenos",
+    "tourPlatform": "Conocer Nuestra Firma"
+  },
+  "hero": {
+    "title": "Soluciones Legales Modernas para Desafíos Complejos",
+    "subtitle": "Nuestro equipo de abogados experimentados proporciona una representación legal excepcional con un enfoque moderno a la práctica del derecho."
+  },
+  "services": {
+    "title": "Nuestros Servicios Legales",
+    "subtitle": "Ofrecemos servicios legales integrales adaptados para satisfacer sus necesidades específicas con experiencia y dedicación.",
+    "items": [
+      {
+        "title": "Derecho Corporativo",
+        "description": "Soluciones legales integrales para empresas de todos los tamaños, desde startups hasta corporaciones establecidas."
+      },
+      {
+        "title": "Derecho Inmobiliario",
+        "description": "Orientación experta a través de transacciones inmobiliarias complejas, disputas y asuntos regulatorios."
+      },
+      {
+        "title": "Derecho de Familia",
+        "description": "Representación compasiva para divorcios, custodia de niños y otros asuntos legales relacionados con la familia."
+      },
+      {
+        "title": "Propiedad Intelectual",
+        "description": "Protección para sus obras creativas, innovaciones e identidad de marca en la era digital."
+      },
+      {
+        "title": "Litigios",
+        "description": "Defensa estratégica y representación en procedimientos judiciales y resolución de disputas."
+      },
+      {
+        "title": "Derecho Fiscal",
+        "description": "Asesoramiento experto en planificación fiscal, cumplimiento y resolución de disputas relacionadas con impuestos."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Atlas Law",
+    "description1": "Fundada en 2010, Atlas Law se ha establecido como una práctica legal líder comprometida con la excelencia y la satisfacción del cliente. Nuestra firma combina profunda experiencia legal con un enfoque moderno para proporcionar soluciones efectivas para nuestros clientes.",
+    "description2": "Creemos en construir relaciones duraderas con nuestros clientes basadas en la confianza, la transparencia y los resultados. Nuestro equipo de abogados experimentados está dedicado a entender sus necesidades únicas y entregar estrategias legales personalizadas.",
+    "stats": {
+      "cases": "Casos Exitosos",
+      "experience": "Años de Experiencia",
+      "attorneys": "Abogados Expertos",
+      "satisfaction": "Satisfacción del Cliente"
+    }
+  },
+  "team": {
+    "title": "Nuestro Equipo Legal",
+    "subtitle": "Conozca a nuestro equipo de abogados experimentados dedicados a proporcionar una representación legal excepcional.",
+    "members": [
+      {
+        "name": "Alejandra Reyes",
+        "role": "Socia Directora"
+      },
+      {
+        "name": "Miguel Chen",
+        "role": "Derecho Corporativo"
+      },
+      {
+        "name": "Sara Jiménez",
+        "role": "Especialista en Litigios"
+      },
+      {
+        "name": "David Villalobos",
+        "role": "Derecho Inmobiliario"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Testimonios de Clientes",
+    "subtitle": "Escuche lo que nuestros clientes tienen que decir sobre su experiencia trabajando con nuestro equipo legal.",
+    "items": [
+      {
+        "quote": "Atlas Law proporcionó una representación legal excepcional durante una fusión corporativa compleja. Su experiencia y enfoque estratégico fueron invaluables.",
+        "name": "Roberto Torres",
+        "title": "CEO, Innovate Tech"
+      },
+      {
+        "quote": "El equipo de Atlas Law me guió a través de un difícil caso de derecho de familia con compasión y profesionalismo. No podría estar más agradecida por su apoyo.",
+        "name": "Jennifer Martínez",
+        "title": "Cliente"
+      },
+      {
+        "quote": "Su conocimiento del derecho de propiedad intelectual nos ayudó a proteger nuestra marca durante una fase crítica de crecimiento. Altamente recomendado para cualquier negocio.",
+        "name": "Marcos Andrade",
+        "title": "Fundador, Creative Solutions"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Póngase en Contacto",
+    "subtitle": "¿Tiene una pregunta legal o necesita representación? Contacte a nuestro equipo hoy para programar una consulta.",
+    "office": "Nuestra Oficina",
+    "address": "Calle Legal 123, Suite 500\nMadrid, 28001",
+    "email": "Envíenos un Email",
+    "emailAddresses": "info@atlaslaw.es\nsoporte@atlaslaw.es",
+    "phone": "Llámenos",
+    "phoneNumbers": "(91) 555-1234\n(800) 555-5678",
+    "form": {
+      "title": "Solicitar una Consulta",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "namePlaceholder": "Juan Pérez",
+      "emailPlaceholder": "juan@ejemplo.es",
+      "subjectPlaceholder": "Consulta legal",
+      "messagePlaceholder": "Describa sus necesidades legales...",
+      "submit": "Enviar Solicitud"
+    }
+  },
+  "footer": {
+    "description": "Proporcionando servicios legales excepcionales con un enfoque moderno a la práctica del derecho.",
+    "practiceAreas": "Áreas de Práctica",
+    "quickLinks": "Enlaces Rápidos",
+    "newsletter": "Boletín",
+    "newsletterText": "Suscríbase a nuestro boletín para actualizaciones e información legal.",
+    "emailPlaceholder": "Su email",
+    "subscribe": "Suscribirse",
+    "copyright": "© 2024 Atlas Law. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Política de Cookies"
+  }
+}
+
